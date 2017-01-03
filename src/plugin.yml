@@ -1,0 +1,13 @@
+name: Lobby
+version: 0.1
+author: Phntm
+main: ch.phntm.lobby.Lobby
+
+commands:
+  setwarp:
+  warp: 
+  l:
+  lobby:
+  hub:
+  spawn:
+  leave: 
